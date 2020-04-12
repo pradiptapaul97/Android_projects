@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:orderInCategory="101"
+        android:title="প্রথম নম্বর"
+        />
+
+    <item
+        android:id="@+id/second"
+        android:orderInCategory="102"
+        android:title="দ্বিতীয় নম্বর"
+        />
+
+</menu>
